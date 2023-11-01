@@ -1,6 +1,7 @@
 import NavBar from "./components/NavBar";
 import SideBar from "./components/SideBar";
 import Body from "./components/Body";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
      <NavBar />
      <SideBar />
      <Body />
+     <Footer />
     </>
   )
 }
